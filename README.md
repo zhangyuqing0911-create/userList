@@ -1,3 +1,9 @@
+
+<img width="343" height="698" alt="スクリーンショット 2026-05-31 181418" src="https://github.com/user-attachments/assets/e93d7640-3969-42f0-8852-87b039a7c8a4" />
+
+<img width="354" height="691" alt="スクリーンショット 2026-05-31 181444" src="https://github.com/user-attachments/assets/5dda0410-8052-4d74-bc2a-a08475a8f4d7" />
+
+
 この度は課題をご提示いただき、誠にありがとうございます。  
 本課題を通じて、技術理解をより深める貴重な機会となりました。  
 
